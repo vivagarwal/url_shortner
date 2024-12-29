@@ -14,6 +14,12 @@ You can check the live version of the app:
 
 ---
 
+### 🎥 Application Demo
+
+![Application Demo](media/demo1.gif)
+
+---
+
 ## 🌟 Features
 
 - 🔗 **Shorten URLs**: Generate short URLs for long links.
