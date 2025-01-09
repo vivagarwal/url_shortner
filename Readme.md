@@ -8,10 +8,7 @@
 
 You can check the live version of the app:
 
-🔗 [Frontend URL - Add Placeholder](#)
-
-🔗 [Backend API URL - Add Placeholder](#)
-
+🔗 [https://shorten-url-frontend.onrender.com/](#)
 ---
 
 ### 🎥 Application Demo
