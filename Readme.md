@@ -8,7 +8,7 @@
 
 You can check the live version of the app:
 
-🔗 [https://shorten-url-frontend.onrender.com/](#)
+🔗 [https://shorten-url-frontend.onrender.com/](https://shorten-url-frontend.onrender.com/)
 ---
 
 ### 🎥 Application Demo
