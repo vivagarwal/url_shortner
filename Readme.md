@@ -13,7 +13,7 @@ You can check the live version of the app:
 
 ### 🎥 Application Demo
 
-![Application Demo](media/demo1.gif)
+![Application Demo](media/url_shortner_demo.gif)
 
 ---
 
